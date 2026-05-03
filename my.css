@@ -32,7 +32,7 @@ img{
 
 
 .my1{
-    font-size: 100px;
+    font-size: 70px;
     font-weight: 500;
     text-align: left;
     font-family: 'Passions Conflict', cursive;
@@ -73,16 +73,16 @@ img{
 }
 
 .my5{
-    font-size: 25px;
+    font-size: 40px;
     text-align:center;
     font-family: 'Andika', sans-serif;
-    color:rgb(252, 191, 77);
+    color:rgb(246, 160, 0);
 }
 
 .my6{
     font-family: 'Amatic SC', cursive;
     text-align: center;
-    font-size: 43px;
+    font-size: 60px;
     font-weight: bolder;
     letter-spacing: 2px;
     text-decoration: none;
